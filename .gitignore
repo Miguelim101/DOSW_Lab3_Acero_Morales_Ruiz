@@ -23,9 +23,6 @@
 hs_err_pid*
 replay_pid*
 
-# Java compiles
-*.class
-
 #Output files (intelliJ)
 .idea/
 out/
