@@ -105,3 +105,9 @@ El sistema de TechCup debe tener:
 
 4. Is there any requirement that should not be implemented? 
    * Unicamente uno; Enviar un reporte de los pagos de inscripcion en formato JSON a la oficina del decano, pues aunque el decano tiene cierta relacion con el projecto, siendo como el que lo dirige o al menos da permisos para realizarlo y lo plantea, a este no le interesa revisar los reportes de los pagos de las inscripciones, posiblemente le interesen otras cosas como los ingresos del torneo del semestre, cuantos equipos se inscribieron este semestre, etc..., y dado que esto no es solicitado sino que se solicita algo que no es de interes para el decano, entonces no se debe de implementar.
+
+
+## 4. Mockups and navigation flows
+
+FIGMA LINK: https://www.figma.com/design/COudzJjjIIso6E4DN0hneM/Untitled?node-id=0-1&t=IIy45hqiAW3fUk9z-1
+
